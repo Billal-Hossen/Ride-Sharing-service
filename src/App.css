@@ -1,5 +1,7 @@
 .App {
-  text-align: center;
+
+  background-image: url(../src/images/Bg.png);
+  height: 100%;
 }
 
 .App-logo {
