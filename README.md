@@ -6,6 +6,6 @@ Road-Rider | Booking with a sharing trip full-stack web application | Live
 •	To book a trip through this website, a user must first register or login.
 •	The user must choose a source and a destination.
 •	Authentication with Google or FaceBook
-•	Technology: BootStrap,Font-Awsome,React-Icons,React,Node,js,Express.js,MongoDB,Heroku,Firebase,Google Maps API
+•	Technology: BootStrap,Font-Awsome,React-Icons,React,Node,js,Express.js,Google Maps API
 
 
